@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ksdc-grantw/gh-react-pages/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/ksdc-grantw/gh-react-pages/static/js/main.18180688.chunk.js",
+    "main.js.map": "/ksdc-grantw/gh-react-pages/static/js/main.18180688.chunk.js.map",
+    "runtime-main.js": "/ksdc-grantw/gh-react-pages/static/js/runtime-main.d73873cf.js",
+    "runtime-main.js.map": "/ksdc-grantw/gh-react-pages/static/js/runtime-main.d73873cf.js.map",
+    "static/js/2.74d7d2ca.chunk.js": "/ksdc-grantw/gh-react-pages/static/js/2.74d7d2ca.chunk.js",
+    "static/js/2.74d7d2ca.chunk.js.map": "/ksdc-grantw/gh-react-pages/static/js/2.74d7d2ca.chunk.js.map",
+    "static/js/3.6ff53a29.chunk.js": "/ksdc-grantw/gh-react-pages/static/js/3.6ff53a29.chunk.js",
+    "static/js/3.6ff53a29.chunk.js.map": "/ksdc-grantw/gh-react-pages/static/js/3.6ff53a29.chunk.js.map",
+    "index.html": "/ksdc-grantw/gh-react-pages/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/ksdc-grantw/gh-react-pages/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.74d7d2ca.chunk.js.LICENSE.txt": "/ksdc-grantw/gh-react-pages/static/js/2.74d7d2ca.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ksdc-grantw/gh-react-pages/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d73873cf.js",
+    "static/js/2.74d7d2ca.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.18180688.chunk.js"
+  ]
+}
